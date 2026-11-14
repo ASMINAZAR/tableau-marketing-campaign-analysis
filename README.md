@@ -61,9 +61,5 @@ Asmi Nazar T
 
 Aspiring Data Analyst
 
-## Author
+LinkedIn: [Connect with me](https://www.linkedin.com/in/asmi-nazar-t-92b406443/)
 
-**Your Name**
-
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/asmi-nazar-t-92b406443/)
-- GitHub: [View my GitHub profile](https://github.com/your-github-username)
