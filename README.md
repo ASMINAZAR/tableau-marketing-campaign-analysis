@@ -41,11 +41,13 @@ The objective is to evaluate campaign effectiveness, compare channel performance
 
 ## Dataset
 
-Source: Kaggle – Marketing Campaign Performance Dataset.
+The project uses a simulated marketing campaign
+performance dataset containing 10,000 records
+and 11 columns.
 
-The original dataset contains 10,000 simulated campaign records. Approximately 1,000 records were selected for this project.
-
-[View Original Dataset](YOUR_KAGGLE_DATASET_LINK)
+The dataset includes campaign details, marketing
+channels, impressions, clicks, leads, conversions,
+cost, revenue, and ROI.
 
 ## Project Files
 
